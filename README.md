@@ -75,6 +75,14 @@ git clone https://github.com/rdelanoy/to-do.git
 cd to-do
 ```
 
+## Archivo `.env.local`
+
+Crea un archivo llamado `.env.local` con el siguiente contenido:
+
+```env
+NEXT_PUBLIC_API_BASE_URL=http://localhost:3000/api
+SECRET_KEY=JBSWY3DPEHPK3PXPJBSWY3DPEHPK3PXP
+
 ### 2. Instalar dependencias
 
 ```bash
