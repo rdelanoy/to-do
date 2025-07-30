@@ -11,7 +11,7 @@ Una aplicación de gestión de tareas estilo Trello que permite a los usuarios a
 - [Styled Components](https://styled-components.com/) – Estilos con CSS-in-JS
 - [ESLint](https://eslint.org/) – Linter de código
 - [NeDB](https://github.com/louischatriot/nedb) – Base de datos en formato JSON para desarrollo
-- OTP + WASM – Autenticación con código dinámico y ofuscación binaria
+- [OTP (One-Time Passwords)](https://datatracker.ietf.org/doc/html/rfc4226) + [WASM (WebAssembly)](https://webassembly.org/) – Autenticación con código dinámico y ofuscación binaria
 
 ---
 
